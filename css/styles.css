@@ -121,6 +121,7 @@ h1 {
 
 .overlay .container h3 {
     font-weight: lighter;
+     margin-bottom: -2rem;
 }
 
 .overlay .container h2 {
@@ -133,6 +134,7 @@ h1 {
    text-align: center; 
    font-weight: lighter;
    font-size: 1.2rem;
+   margin-bottom: 1.5rem;
 
 }
 
